@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">EkaCare</string>
+    <string name="app_logo">App Logo</string>
+    <string name="eka_care">eka.care</string>
+    <string name="lets_shop">Let\'s Shop</string>
+    <string name="login">Login</string>
 </resources>
